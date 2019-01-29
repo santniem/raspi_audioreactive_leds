@@ -1,4 +1,7 @@
 # Audioreactive ws2812b with Raspberry pi
+## Why
+My goal was to visualize music somehow and lighten up my table. I didn't want to use my raspberry pi to do any actual heavy calculations so I could use it for other purposes too so I made my PC to do all the work and just send the data required over wifi.
+
 
 ## Install the ws281x library
 This library is required for controlling the PWM of the GPIO pins
